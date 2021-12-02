@@ -1,0 +1,16 @@
+[{"id":1,"name":"Car Valley","img":"https://i.ibb.co/TgVSWGs/dash.png",
+    "live":"https://car-valley-ef94c.web.app/",
+    "git":"https://github.com/nazmuzzamanriad/Car-valley-client",
+"technology":"HTML5,Reactjs,React Router,Material UI,MongoDB,NodeJs,ExpressJs,VsCode,FireBase,HeroKu,Git"
+,"features":"users can order the product,cancel the product,give feedbacks for reviews.The admin users can add a New Admin.Admin Can delete,edit, or update their products and also cancel their user's order.This project has a seperate Dashboard for users and admin panel"},
+    
+
+
+{"id":2,"name":"Travele Travel Agency","img":"https://i.ibb.co/8NhMcRt/travel.png","live":"https://travele-b7ab5.web.app/home","git":"https://github.com/nazmuzzamanriad/Travele-Travel-Agency-client"
+
+   ,"technology":"HTML5,Reactjs,React Router,Material UI,MongoDB,NodeJs,ExpressJs,VsCode,FireBase,HeroKu,Git",
+   "features":"The users can show the destination where they want to travel.Login options is available.If anyone want to book a destination they must login for further processing.They can also cancel their booking"
+},
+    {"id":3,"name":"Fitness Gym","img":"https://i.ibb.co/09ynvXQ/fitness.png","live":"https://fitness-gym-9f1c9.web.app/","git":"https://github.com/nazmuzzamanriad/Travele-Travel-Agency-client",
+        "technology":"HTML5,CSS3,React BootStrap,VsCode,FireBase,Git",
+        "features":"Users can see the gym services.They can set an appointment.But they must login first.They can also see the upcoming events in different locations."}]
