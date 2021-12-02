@@ -15,7 +15,7 @@ const Projects = () => {
     return (
         <div>
         <div>
-            <h2 >My Projects</h2>
+            <h2 id='projects' style={{fontWeight:'bold'}} >My Projects</h2>
             <div >
                 <Row xs={1} md={3} className="g-4">
                     {

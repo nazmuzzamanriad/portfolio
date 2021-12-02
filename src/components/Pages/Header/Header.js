@@ -6,14 +6,14 @@ import './Header.css'
 const Header = () => {
     return (
         
-     <div className='header'>
+     <div className='header' id='home'>
             <Container >
 
 <Row className='d-flex justify-content-center align-items-center'>
   
   <Col  sm={12} md={8}>
-    <h1>Hello, i'm Nazmuzzaman Riad</h1>
-    <h4>Front-End Developer</h4>
+    <h1 style={{fontWeight:'bold'}}>Hello, i'm Nazmuzzaman Riad</h1>
+    <h4 style={{fontWeight:'bold'}}>Front-End Developer</h4>
   </Col>
   
   <Col sm={12} md={4}>

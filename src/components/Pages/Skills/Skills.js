@@ -5,7 +5,7 @@ import { ProgressBar } from 'react-bootstrap';
 const Skills = () => {
     return (
         <div style={{margin:'10px',padding:'25px'}}>
-        <h1 style={{fontWeight:'bold'}}>My Skills</h1>
+        <h1 style={{fontWeight:'bold'}} id='skills'>My Skills</h1>
         <div style={{margin:'10px'}}>
     <ProgressBar style={{margin:'10px'}}     variant="success" now={80} label='HTML 80%' />
     <ProgressBar style={{margin:'10px'}}   variant="info" now={75} label='CSS 75%' />

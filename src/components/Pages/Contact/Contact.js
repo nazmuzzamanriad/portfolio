@@ -5,7 +5,7 @@ import './Contact.css'
 const Contact = () => {
     return (
         <div>
-            <h1 style={{fontWeight:'bold'}}>Contact Me</h1>
+            <h1 style={{fontWeight:'bold'}} id='contact'>Contact Me</h1>
   <div className='form'>
   <Container>
      <Form action="https://formspree.io/f/mjvlblea" method="post">
